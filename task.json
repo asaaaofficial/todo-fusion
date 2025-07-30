@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Belajar dasar prompt engineering AI untuk malam ini",
+        "description": "Belajar cara membuat prompt yang bagus untuk model AI seperti Granite.",
+        "priority": "Tinggi",
+        "category": "Belajar",
+        "done": false
+    },
+    {
+        "title": "Meeting dengan tim dari jam 10",
+        "description": "",
+        "priority": "Sedang",
+        "category": "Kerja",
+        "done": true
+    },
+    {
+        "title": "Beli bahan makanan",
+        "description": "Beli sayur, buah, dan bahan pokok lainnya.",
+        "priority": "Rendah",
+        "category": "Belanja",
+        "done": false
+    },
+    {
+        "title": "Buat laporan mingguan",
+        "description": "Menyusun laporan mingguan untuk tim marketing berdasarkan data penjualan.",
+        "priority": "Sedang",
+        "category": "Kerja",
+        "done": true
+    }
+]
