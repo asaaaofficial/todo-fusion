@@ -13,6 +13,7 @@ ToDo Fusion dirancang sebagai solusi hybrid untuk pengelolaan tugas harian. Peng
 - **IBM Granite AI** (melalui data `task.json`)
 - **localStorage** (untuk penyimpanan lokal browser)
 - **Fetch API** (untuk memuat data dari file JSON)
+- **Python** (untuk menanggapi AI dari IBM Granite)
 
 ### 🌟 Features
 - Menambahkan tugas baru.
